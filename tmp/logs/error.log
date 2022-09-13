@@ -1,0 +1,4 @@
+[Tuesday 13th of September 2022 02:31:03 PM] Ошибка: Call to a member function getDatabase() on null | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\View.php | Строка: 87
+
+[Tuesday 13th of September 2022 02:39:58 PM] Ошибка: Call to a member function getDatabase() on null | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\View.php | Строка: 87
+
