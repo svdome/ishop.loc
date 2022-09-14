@@ -1,3 +1,4 @@
+
 <?php /** @var array $products */
 foreach ($products as $product) : ?>
     <div class="col-lg-4 col-sm-6 mb-3">
@@ -6,12 +7,12 @@ foreach ($products as $product) : ?>
                 <a href="product/<?= $product['slug']; ?>"><img src="<?=PATH . $product['img'] ?>" alt="..."></a>
             </div>
             <div class="product-details">
-                <h4><a href="product/<?= $product['slug']; ?>"><?= $product['title']; ?>></a></h4>
+                <h4><a href="product/<?= $product['slug']; ?>"><?= $product['title']; ?></a></h4>
                 <p><?= $product['exerpt']; ?></p>
                 <div class="product-bottom-details d-flex justify-content-between">
                     <div class="product-price">
                         <?php if($product['old_price']) : ?>
-                            <small>$<?= $product['old_price']; ?>></small>
+                            <small>$<?= $product['old_price']; ?></small>
                         <?php endif; ?>
                         $<?= $product['price']; ?>
                     </div>

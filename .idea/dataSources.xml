@@ -8,5 +8,12 @@
       <jdbc-url>jdbc:mysql://localhost:3306/simplemvc</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="simplemvc@localhost [2]" uuid="11b6f7b5-80b7-4be8-bf1c-87cc8f00f894">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/simplemvc</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>

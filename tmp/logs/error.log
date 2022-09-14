@@ -1,70 +1,120 @@
-[Wednesday 14th of September 2022 01:24:02 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 06:47:13 PM] Ошибка: Undefined property: app\controllers\MainController::$modek | Файл: C:\OpenServer\domains\ishop.loc\app\controllers\MainController.php | Строка: 12
 
-[Wednesday 14th of September 2022 01:28:05 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 06:47:13 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
 
-[Wednesday 14th of September 2022 01:29:09 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 06:47:29 PM] Ошибка: Undefined property: app\controllers\MainController::$modek | Файл: C:\OpenServer\domains\ishop.loc\app\controllers\MainController.php | Строка: 12
 
-[Wednesday 14th of September 2022 01:32:56 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 06:47:51 PM] Ошибка: Undefined property: app\controllers\MainController::$modek | Файл: C:\OpenServer\domains\ishop.loc\app\controllers\MainController.php | Строка: 12
 
-[Wednesday 14th of September 2022 01:32:56 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+[Wednesday 14th of September 2022 06:48:48 PM] Ошибка: Undefined property: app\controllers\MainController::$modek | Файл: C:\OpenServer\domains\ishop.loc\app\controllers\MainController.php | Строка: 12
 
-[Wednesday 14th of September 2022 01:35:36 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 06:50:34 PM] Ошибка: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.status' in 'where clause' | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
 
-[Wednesday 14th of September 2022 01:37:13 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 06:52:14 PM] Ошибка: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cd.product_id' in 'on clause' | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
 
-[Wednesday 14th of September 2022 01:37:13 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+[Wednesday 14th of September 2022 06:53:33 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 17
 
-[Wednesday 14th of September 2022 01:37:56 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 06:54:00 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 19
 
-[Wednesday 14th of September 2022 01:38:02 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 06:55:52 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 19
 
-[Wednesday 14th of September 2022 01:38:02 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+[Wednesday 14th of September 2022 06:56:42 PM] Ошибка: Undefined variable $category | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 19
 
-[Wednesday 14th of September 2022 01:38:33 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 06:58:30 PM] Ошибка: Undefined variable $category | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\products_loop.php | Строка: 1
 
-[Wednesday 14th of September 2022 01:38:46 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 07:04:24 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 19
 
-[Wednesday 14th of September 2022 01:38:55 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 07:05:04 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
 
-[Wednesday 14th of September 2022 01:39:56 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 07:07:53 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 71
 
-[Wednesday 14th of September 2022 01:39:56 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+[Wednesday 14th of September 2022 07:18:39 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 85
 
-[Wednesday 14th of September 2022 01:40:00 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 07:21:50 PM] Ошибка: Undefined variable $category | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 87
 
-[Wednesday 14th of September 2022 01:40:00 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+[Wednesday 14th of September 2022 07:22:10 PM] Ошибка: syntax error, unexpected token ";" | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 87
 
-[Wednesday 14th of September 2022 01:43:35 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 07:25:24 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 71
 
-[Wednesday 14th of September 2022 01:43:35 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+[Wednesday 14th of September 2022 07:35:43 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 17
 
-[Wednesday 14th of September 2022 01:44:41 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 2 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 07:35:57 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 16
 
-[Wednesday 14th of September 2022 01:44:41 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+[Wednesday 14th of September 2022 07:36:14 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 1
 
-[Wednesday 14th of September 2022 01:45:36 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 2 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 07:38:07 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 73
 
-[Wednesday 14th of September 2022 01:46:48 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 2 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 07:38:54 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\footer.php | Строка: 1
 
-[Wednesday 14th of September 2022 01:46:48 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+[Wednesday 14th of September 2022 07:40:48 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 73
 
-[Wednesday 14th of September 2022 01:47:14 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 2 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 07:42:28 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 73
 
-[Wednesday 14th of September 2022 01:47:14 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+[Wednesday 14th of September 2022 07:43:52 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 17
 
-[Wednesday 14th of September 2022 01:47:51 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 2 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 07:44:39 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 17
 
-[Wednesday 14th of September 2022 02:14:12 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 2 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[Wednesday 14th of September 2022 07:48:41 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 17
 
-[Wednesday 14th of September 2022 02:14:12 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+[Wednesday 14th of September 2022 07:51:23 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 116
 
-[Wednesday 14th of September 2022 02:27:02 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+[Wednesday 14th of September 2022 07:51:45 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 115
 
-[Wednesday 14th of September 2022 02:27:03 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+[Wednesday 14th of September 2022 07:52:28 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 85
 
-[Wednesday 14th of September 2022 02:34:51 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+[Wednesday 14th of September 2022 07:55:39 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 85
 
-[Wednesday 14th of September 2022 02:34:51 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+[Wednesday 14th of September 2022 07:56:19 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 85
 
-[Wednesday 14th of September 2022 02:37:40 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+[Wednesday 14th of September 2022 07:56:36 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 85
+
+[Wednesday 14th of September 2022 07:57:00 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 85
+
+[Wednesday 14th of September 2022 08:03:46 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 84
+
+[Wednesday 14th of September 2022 08:04:39 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 85
+
+[Wednesday 14th of September 2022 08:05:56 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 87
+
+[Wednesday 14th of September 2022 08:07:35 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 87
+
+[Wednesday 14th of September 2022 08:08:44 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 87
+
+[Wednesday 14th of September 2022 08:09:55 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 87
+
+[Wednesday 14th of September 2022 08:13:58 PM] Ошибка: Undefined variable $categories | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\products_loop.php | Строка: 1
+
+[Wednesday 14th of September 2022 08:29:22 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 08:29:26 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 08:29:30 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 08:29:33 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 08:30:35 PM] Ошибка: syntax error, unexpected token "endforeach", expecting end of file | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 92
+
+[Wednesday 14th of September 2022 08:31:33 PM] Ошибка: syntax error, unexpected token "endforeach", expecting end of file | Файл: C:\OpenServer\domains\ishop.loc\app\views\parts\header.php | Строка: 92
+
+[Wednesday 14th of September 2022 08:32:33 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 08:34:00 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 08:34:03 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 08:43:09 PM] Ошибка: syntax error, unexpected token ")", expecting ";" | Файл: C:\OpenServer\domains\ishop.loc\app\models\Main.php | Строка: 35
+
+[Wednesday 14th of September 2022 08:55:07 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 08:56:20 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 09:02:46 PM] Ошибка: compact(): Undefined variable $result | Файл: C:\OpenServer\domains\ishop.loc\app\views\layouts\simple-mvc.php | Строка: 1
+
+[Wednesday 14th of September 2022 09:09:14 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 09:09:27 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 09:10:11 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 09:16:11 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
 
