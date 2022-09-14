@@ -67,7 +67,7 @@
                     <tbody>
                     <tr>
                         <td>
-                            <a href="#"><img src="<?=PATH?>/public/assets/img/products/apple_cinema_30.jpg" alt=""></a>
+                            <a href="#"><img src="<?=PATH?>/public/uploads/apple_cinema_30.jpg" alt=""></a>
                         </td>
                         <td><a href="#">Apple cinema</a></td>
                         <td>1</td>
@@ -75,7 +75,7 @@
                     </tr>
                     <tr>
                         <td>
-                            <a href="#"><img src="<?=PATH?>/public/assets/img/products/canon_eos_5d_1.jpg" alt=""></a>
+                            <a href="#"><img src="<?=PATH?>/public/uploads/canon_eos_5d_1.jpg" alt=""></a>
                         </td>
                         <td><a href="#">Canon EOS</a></td>
                         <td>1</td>
@@ -83,7 +83,7 @@
                     </tr>
                     <tr>
                         <td>
-                            <a href="#"><img src="<?=PATH?>/public/assets/img/products/hp_1.jpg" alt=""></a>
+                            <a href="#"><img src="<?=PATH?>/public/uploads/hp_1.jpg" alt=""></a>
                         </td>
                         <td><a href="#">HP</a></td>
                         <td>1</td>

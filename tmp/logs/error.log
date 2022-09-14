@@ -1,4 +1,70 @@
-[Tuesday 13th of September 2022 02:31:03 PM] Ошибка: Call to a member function getDatabase() on null | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\View.php | Строка: 87
+[Wednesday 14th of September 2022 01:24:02 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
 
-[Tuesday 13th of September 2022 02:39:58 PM] Ошибка: Call to a member function getDatabase() on null | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\View.php | Строка: 87
+[Wednesday 14th of September 2022 01:28:05 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Wednesday 14th of September 2022 01:29:09 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Wednesday 14th of September 2022 01:32:56 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Wednesday 14th of September 2022 01:32:56 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 01:35:36 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Wednesday 14th of September 2022 01:37:13 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Wednesday 14th of September 2022 01:37:13 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 01:37:56 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Wednesday 14th of September 2022 01:38:02 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Wednesday 14th of September 2022 01:38:02 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 01:38:33 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Wednesday 14th of September 2022 01:38:46 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Wednesday 14th of September 2022 01:38:55 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Wednesday 14th of September 2022 01:39:56 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Wednesday 14th of September 2022 01:39:56 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 01:40:00 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Wednesday 14th of September 2022 01:40:00 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 01:43:35 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 1 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Wednesday 14th of September 2022 01:43:35 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 01:44:41 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 2 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Wednesday 14th of September 2022 01:44:41 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 01:45:36 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 2 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Wednesday 14th of September 2022 01:46:48 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 2 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Wednesday 14th of September 2022 01:46:48 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 01:47:14 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 2 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Wednesday 14th of September 2022 01:47:14 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 01:47:51 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 2 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Wednesday 14th of September 2022 02:14:12 PM] Ошибка: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 100' at line 2 | Файл: C:\OpenServer\domains\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+
+[Wednesday 14th of September 2022 02:14:12 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 02:27:02 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 02:27:03 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 02:34:51 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 02:34:51 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
+
+[Wednesday 14th of September 2022 02:37:40 PM] Ошибка: Страница не найдена | Файл: C:\OpenServer\domains\ishop.loc\vendor\core\Router.php | Строка: 92
 
