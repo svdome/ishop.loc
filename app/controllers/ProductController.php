@@ -4,7 +4,7 @@ namespace app\controllers;
 
 class ProductController extends AppController
 {
-    public function getListProduct()
+    public function getlistAction()
     {
         $params = explode('/', $this->route['params']);
         $products = $this->model->getList($params[1], 1);

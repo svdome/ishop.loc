@@ -7,6 +7,11 @@ use RedBeanPHP\R;
 
 class AppModel extends Model
 {
+    /**
+     * получение продуктовых категорий
+     * @param $lang
+     * @return array
+     */
     public function getCategoryProd($lang) : array
     {
         $categories = R::getAll(sql: "SELECT c.* , cd.* FROM category c JOIN category_description cd on c.id = cd.category_id 

@@ -2,6 +2,7 @@
 
 use core\Router;
 
+Router::add('^product/.+/?$', ['controller' => 'product', 'action' => 'getlist', 'params'=> trim(urldecode($_SERVER['QUERY_STRING']), '/')]);
 Router::add('^form/auth/?$', ['controller' => 'form', 'action' => 'auth']);
 Router::add('^user/getall/?$', ['controller' => 'user', 'action' => 'getall']);
 Router::add('^user/getone/?$', ['controller' => 'user', 'action' => 'getone']);

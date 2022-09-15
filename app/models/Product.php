@@ -12,7 +12,7 @@ class Product extends AppModel
         $products = R::getAll("SELECT c.id, p.*, pd.* FROM category c 
                             JOIN product p on c.id = p.category_id
                             JOIN product_description pd on p.id = pd.product_id
-                            WHERE c.slug = ? AND pd.language_id = ?", [$param,$lang]);
+                            WHERE c.slug = ? AND pd.language_id = ?", [$param, $lang]);
         return $products;
     }
 }
