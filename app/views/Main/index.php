@@ -1,4 +1,3 @@
-<?php debug($categories) ?>
 <?php if (!empty($slides)) : ?>
 <div class="container-fluid my-carousel">
 

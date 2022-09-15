@@ -1,4 +1,3 @@
-
 <?php /** @var array $products */
 foreach ($products as $product) : ?>
     <div class="col-lg-4 col-sm-6 mb-3">
